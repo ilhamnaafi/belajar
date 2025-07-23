@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+    background-image: url(img/bg1.png);
+    /* background-repeat: no-repeat/repeat-x/repeat-y; (untuk melakukan repeat pada bg)
+    background-position: top/center/bottom right/center/left; (mengatr posisi bg jika no-repeat) */
+}
+
+h1{
+    color: #ffffff;
+}
+
+p{
+    color: #ffffff;
+}
