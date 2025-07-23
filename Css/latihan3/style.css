@@ -1,0 +1,14 @@
+/* Belajar mengenal text styling */
+
+h1 {
+  font-size: 50px;
+  color : skyblue;
+}
+
+p {
+/* menambahakn tab pada awal paragraf */
+  text-indent: 100px;
+  text-transform: uppercase;
+  letter-spacing: 5px;/* mengatur jarak antar huruf */
+  word-spacing: 10px;/* mengatur jarak antar kata */
+}
