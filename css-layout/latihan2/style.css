@@ -1,13 +1,13 @@
 .satu {
     width: 200px;
-    height: 200px;
+    height: 100px;
     background-color: lightgreen;
     /* satuan "px" akan merubah ukuran seuai dengan ukuran yg kita tuliskan */
 }
 
 .dua {
     width: 100%;
-    height: 200px;
+    height: 100px;
     background-color: pink;
     /* satuan "%" akan membuat ukuran menyesuaikan wadahnya */
 }
