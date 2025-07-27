@@ -1,0 +1,17 @@
+.container {
+    width: 600px;
+    border: 1px solid black;
+    margin : auto ;
+}
+
+img {
+    float: right;
+}
+
+p {
+    text-align: justify;
+}
+
+.clear {
+    clear : right;
+}
